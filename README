@@ -1,0 +1,6 @@
+
+
+Installation tip:
+    Edit the file ~/My Documents/LEGO Creations/MINDSTORMS Projects/Profiles/Default/settings.ini
+
+    Change Data Directory="/C/Documents and Settings/.../path/to/nxtcode"
